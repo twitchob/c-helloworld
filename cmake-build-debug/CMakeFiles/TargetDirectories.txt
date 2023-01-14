@@ -1,0 +1,3 @@
+D:/learnPlace/C/helloworld/cmake-build-debug/CMakeFiles/helloworld.dir
+D:/learnPlace/C/helloworld/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/learnPlace/C/helloworld/cmake-build-debug/CMakeFiles/rebuild_cache.dir
